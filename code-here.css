@@ -1,25 +1,60 @@
 #classic {
-
+    padding: 1em;
+    padding-top: 1em;
+    test-align: justify;
 }
 
 #modern {
-
+text-align: center;
+padding: 1em;
+    padding-top: 1em;
+    font-family: arial;
+    background-color: gold;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
 
 #impact {
-
+background-color: #90ee90;
+font-family: arial;
+text-align: center;
+padding: 1em;
+    padding-top: 1em;
+    border: 15px solid black;
+    Border-style: double;
 }
 
 #elise {
-
+    font-family: Apple Chancery, cursive;
+    text-align: center;
+    padding: 1.5em;
+    background-color: #fef9ef;
+    border-style: groove;
+    border-width: 5px;
+    border-color: #faebd7;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
 
 #one, #two  {
-
+display: inline-block;
+margin-left: 2em;
+margin-right: 1em;
+text-align: center;
+font-family: arial;
+padding: 1.5em;
+    padding-top: 1em;
+    background-color: #7ffed4;
+    border-style: groove;
+    border-width: 7px;
+border-color: #35ced1;
 }
 
 #gaudi {
-
+background-color: #f8a07a;
+border-radius: 15px 50px;
+padding: 1em; 
+font-family; sans-serif;
+text-align: center;
+line-height: 1.5;
 }
 
 
